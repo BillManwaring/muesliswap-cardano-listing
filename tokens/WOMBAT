@@ -1,0 +1,9 @@
+{
+	    "policyId": " 196624e0a801cda6f2432e96f7f1a3e8a430d0757591ccfe10d24783",
+	    "name": "WOMBAT",
+	    "symbol": "WOMBAT",
+	    "website": "HTTPS://TWITCH.TV/WOMBATBILL",
+	    "description": "The official currency of WombatBill, to be used as prizes, entry fees, the only way to purchase exclusive merchandise and much, much more. Watch twitch.tv/wombatbill from February 2022 to get involved",
+	    "totalSupply": 9000000000,
+	    "amounts": [500, 1000, 5000, 10000, 100000, 1000000]
+	}
